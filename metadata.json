@@ -1,0 +1,6 @@
+{
+  "name": "Royal Ludo 3D — Grand Parlor Edition",
+  "description": "Tactile 3D Ludo board game with local pass-and-play multiplayer, intelligent AI opponents, physical dice dynamics, animated lathe-crafted pawns, and high-thinking tactical analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
